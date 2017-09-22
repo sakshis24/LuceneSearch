@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuceneDemoProject", "LuceneDemoProject\LuceneDemoProject.csproj", "{2DBC561A-8D6B-4C33-9828-D6E0CDDF4B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search.Console", "Search.Console\Search.Console.csproj", "{582B76EE-F336-445A-A9E2-BEFD076DB03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBC561A-8D6B-4C33-9828-D6E0CDDF4B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBC561A-8D6B-4C33-9828-D6E0CDDF4B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBC561A-8D6B-4C33-9828-D6E0CDDF4B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBC561A-8D6B-4C33-9828-D6E0CDDF4B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582B76EE-F336-445A-A9E2-BEFD076DB03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582B76EE-F336-445A-A9E2-BEFD076DB03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582B76EE-F336-445A-A9E2-BEFD076DB03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582B76EE-F336-445A-A9E2-BEFD076DB03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7E021B-893A-4011-BF4A-E4188F1DC0C4}
+	EndGlobalSection
+EndGlobal
